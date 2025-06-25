@@ -1,5 +1,3 @@
-[file name]: server.js
-[file content begin]
 const express = require("express");
 const wordList = require("./word_list");
 
